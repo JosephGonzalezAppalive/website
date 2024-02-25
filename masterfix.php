@@ -106,7 +106,7 @@
 		</div>
 	</div>
 </a>
-<a href="mailto:joseph@appalive.com.au" style="text-decoration:none">
+<a href="mailto:josephgonzalez5252@icloud.com" style="text-decoration:none">
 	<div id="menuentry_508d5d2f"  class="style10 menu_6a4e7890_mainMenuEntry normalEntry">
 		<div class="style4">
   <span class="textstyle6">Email Joseph</span>
@@ -143,7 +143,7 @@
 	<script type="text/javascript">
 		var js_menu_6a4e7890= new wsp_menu('menu_6a4e7890', 'menu_6a4e7890', 10);
 
-		js_menu_6a4e7890.createMenuForItem('menuentry_41b4302b', ["  <span class=\"textstyle7\">Email Joseph</span> ", 'mailto:joseph@appalive.com.au', '',
+		js_menu_6a4e7890.createMenuForItem('menuentry_41b4302b', ["  <span class=\"textstyle7\">Email Joseph</span> ", 'mailto:josephgonzalez5252@icloud.com', '',
 		                                   "  <span class=\"textstyle7\">Go to my Facebook page</span> ", 'https://www.facebook.com/appalive/', '_blank',
 		                                   "  <span class=\"textstyle7\"></span> ", 'contact.html', '',
 		                                   "  <span class=\"textstyle7\"></span> ", 'painting.html', '',
